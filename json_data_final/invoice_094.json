@@ -1,0 +1,21 @@
+{
+  "invoice_number": "INV-2025-1094",
+  "order_number": "ORD-2025-2094",
+  "customer": "Cobalt Solutions LLC",
+  "email": "ap@cobalt.com",
+  "order_date": "2025-02-14",
+  "due_date": "2025-03-16",
+  "subtotal": 7859.4,
+  "tax": 707.35,
+  "total": 8566.75,
+  "payment_completed": false,
+  "payment_method": "Mastercard",
+  "transaction_id": "652bee02-816",
+  "items": [
+    "- Training Workshop (Attendees) x33 ($166.76 each = $5503.08)",
+    "- Enterprise Support Retainer (Monthly) x1 ($2356.32 each = $2356.32)"
+  ],
+  "notes": "Synthetic B2B invoice dataset for internal testing.",
+  "filename": "invoice_094.pdf",
+  "file_path": "data_final/invoice_094.pdf"
+}

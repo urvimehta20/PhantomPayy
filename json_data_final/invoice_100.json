@@ -1,0 +1,21 @@
+{
+  "invoice_number": "INV-2025-1100",
+  "order_number": "ORD-2025-2100",
+  "customer": "Nova Solutions LLC",
+  "email": "ap@nova.com",
+  "order_date": "2024-03-18",
+  "due_date": "2024-04-02",
+  "subtotal": 4812.0,
+  "tax": 433.08,
+  "total": 5245.08,
+  "payment_completed": false,
+  "payment_method": "Visa",
+  "transaction_id": "f733335b-d49",
+  "items": [
+    "- Hardware Maintenance Visit x2 ($962.22 each = $1924.44)",
+    "- Data Migration Package x1 ($2887.56 each = $2887.56)"
+  ],
+  "notes": "Synthetic B2B invoice dataset for internal testing.",
+  "filename": "invoice_100.pdf",
+  "file_path": "data_final/invoice_100.pdf"
+}

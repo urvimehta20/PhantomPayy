@@ -1,0 +1,22 @@
+{
+  "invoice_number": "INV-2025-1051",
+  "order_number": "ORD-2025-2051",
+  "customer": "Paragon Solutions LLC",
+  "email": "ap@paragon.com",
+  "order_date": "2025-06-27",
+  "due_date": "2025-08-11",
+  "subtotal": 12208.77,
+  "tax": 1098.79,
+  "total": 13307.56,
+  "payment_completed": true,
+  "payment_method": "AmEx",
+  "transaction_id": "91d1f39d-e6e",
+  "items": [
+    "- Hardware Maintenance Visit x3 ($912.81 each = $2738.43)",
+    "- Training Workshop (Attendees) x51 ($117.16 each = $5975.16)",
+    "- Enterprise Support Retainer (Monthly) x1 ($3495.18 each = $3495.18)"
+  ],
+  "notes": "Synthetic B2B invoice dataset for internal testing.",
+  "filename": "invoice_051.pdf",
+  "file_path": "data_final/invoice_051.pdf"
+}

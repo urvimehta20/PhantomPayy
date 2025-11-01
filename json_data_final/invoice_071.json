@@ -1,0 +1,22 @@
+{
+  "invoice_number": "INV-2025-1071",
+  "order_number": "ORD-2025-2071",
+  "customer": "BluePeak Solutions LLC",
+  "email": "ap@bluepeak.com",
+  "order_date": "2024-11-24",
+  "due_date": "2025-01-08",
+  "subtotal": 11688.26,
+  "tax": 1051.94,
+  "total": 12740.2,
+  "payment_completed": false,
+  "payment_method": "Visa",
+  "transaction_id": "db1cdbba-225",
+  "items": [
+    "- Enterprise Support Retainer (Monthly) x1 ($3269.32 each = $3269.32)",
+    "- SaaS License (Seats) x87 ($72.08 each = $6270.96)",
+    "- Data Migration Package x1 ($2147.98 each = $2147.98)"
+  ],
+  "notes": "Synthetic B2B invoice dataset for internal testing.",
+  "filename": "invoice_071.pdf",
+  "file_path": "data_final/invoice_071.pdf"
+}

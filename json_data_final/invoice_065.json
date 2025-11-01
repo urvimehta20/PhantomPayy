@@ -1,0 +1,22 @@
+{
+  "invoice_number": "INV-2025-1065",
+  "order_number": "ORD-2025-2065",
+  "customer": "Cobalt Solutions LLC",
+  "email": "ap@cobalt.com",
+  "order_date": "2024-04-07",
+  "due_date": "2024-05-07",
+  "subtotal": 13086.55,
+  "tax": 1177.79,
+  "total": 14264.34,
+  "payment_completed": false,
+  "payment_method": "AmEx",
+  "transaction_id": "7222bf7d-021",
+  "items": [
+    "- SaaS License (Seats) x177 ($53.60 each = $9487.20)",
+    "- Enterprise Support Retainer (Monthly) x1 ($1467.58 each = $1467.58)",
+    "- Data Migration Package x1 ($2131.77 each = $2131.77)"
+  ],
+  "notes": "Synthetic B2B invoice dataset for internal testing.",
+  "filename": "invoice_065.pdf",
+  "file_path": "data_final/invoice_065.pdf"
+}

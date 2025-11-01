@@ -1,0 +1,22 @@
+{
+  "invoice_number": "INV-2025-1083",
+  "order_number": "ORD-2025-2083",
+  "customer": "Arcadia Solutions LLC",
+  "email": "ap@arcadia.com",
+  "order_date": "2024-10-19",
+  "due_date": "2024-11-03",
+  "subtotal": 6181.79,
+  "tax": 556.36,
+  "total": 6738.15,
+  "payment_completed": false,
+  "payment_method": "Visa",
+  "transaction_id": "c6f51133-2c6",
+  "items": [
+    "- Hardware Maintenance Visit x1 ($317.49 each = $317.49)",
+    "- Data Migration Package x1 ($3130.65 each = $3130.65)",
+    "- Enterprise Support Retainer (Monthly) x1 ($2733.65 each = $2733.65)"
+  ],
+  "notes": "Synthetic B2B invoice dataset for internal testing.",
+  "filename": "invoice_083.pdf",
+  "file_path": "data_final/invoice_083.pdf"
+}

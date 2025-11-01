@@ -1,0 +1,22 @@
+{
+  "invoice_number": "INV-2025-1079",
+  "order_number": "ORD-2025-2079",
+  "customer": "Ironclad Solutions LLC",
+  "email": "ap@ironclad.com",
+  "order_date": "2025-07-12",
+  "due_date": "2025-08-11",
+  "subtotal": 12932.11,
+  "tax": 1163.89,
+  "total": 14096.0,
+  "payment_completed": false,
+  "payment_method": "AmEx",
+  "transaction_id": "18da50f5-9b9",
+  "items": [
+    "- SaaS License (Seats) x192 ($35.78 each = $6869.76)",
+    "- Training Workshop (Attendees) x58 ($89.45 each = $5188.10)",
+    "- Custom Integration Hours x5 ($174.85 each = $874.25)"
+  ],
+  "notes": "Synthetic B2B invoice dataset for internal testing.",
+  "filename": "invoice_079.pdf",
+  "file_path": "data_final/invoice_079.pdf"
+}

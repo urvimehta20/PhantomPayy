@@ -1,0 +1,22 @@
+{
+  "invoice_number": "INV-2025-1012",
+  "order_number": "ORD-2025-2012",
+  "customer": "Blueprint Solutions LLC",
+  "email": "ap@blueprint.com",
+  "order_date": "2024-10-22",
+  "due_date": "2024-12-06",
+  "subtotal": 20747.48,
+  "tax": 1867.27,
+  "total": 22614.75,
+  "payment_completed": false,
+  "payment_method": "Visa",
+  "transaction_id": "81b02cd1-4cf",
+  "items": [
+    "- Training Workshop (Attendees) x53 ($98.17 each = $5203.01)",
+    "- Custom Integration Hours x45 ($301.02 each = $13545.90)",
+    "- Data Migration Package x1 ($1998.57 each = $1998.57)"
+  ],
+  "notes": "Synthetic B2B invoice dataset for internal testing.",
+  "filename": "invoice_012.pdf",
+  "file_path": "data_final/invoice_012.pdf"
+}

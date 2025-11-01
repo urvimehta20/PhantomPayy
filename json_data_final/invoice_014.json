@@ -1,0 +1,23 @@
+{
+  "invoice_number": "INV-2025-1014",
+  "order_number": "ORD-2025-2014",
+  "customer": "Mosaic Solutions LLC",
+  "email": "ap@mosaic.com",
+  "order_date": "2024-09-27",
+  "due_date": "2024-10-12",
+  "subtotal": 12880.65,
+  "tax": 1159.26,
+  "total": 14039.91,
+  "payment_completed": false,
+  "payment_method": "Check",
+  "transaction_id": "9b5795af-27a",
+  "items": [
+    "- Custom Integration Hours x19 ($220.80 each = $4195.20)",
+    "- Enterprise Support Retainer (Monthly) x1 ($1205.95 each = $1205.95)",
+    "- Training Workshop (Attendees) x33 ($138.67 each = $4576.11)",
+    "- Data Migration Package x1 ($2903.39 each = $2903.39)"
+  ],
+  "notes": "Synthetic B2B invoice dataset for internal testing.",
+  "filename": "invoice_014.pdf",
+  "file_path": "data_final/invoice_014.pdf"
+}

@@ -1,0 +1,22 @@
+{
+  "invoice_number": "INV-2025-1063",
+  "order_number": "ORD-2025-2063",
+  "customer": "Mosaic Solutions LLC",
+  "email": "ap@mosaic.com",
+  "order_date": "2024-04-06",
+  "due_date": "2024-05-21",
+  "subtotal": 18699.35,
+  "tax": 1682.94,
+  "total": 20382.29,
+  "payment_completed": true,
+  "payment_method": "AmEx",
+  "transaction_id": "43b343c2-584",
+  "items": [
+    "- Training Workshop (Attendees) x52 ($154.51 each = $8034.52)",
+    "- Enterprise Support Retainer (Monthly) x1 ($3196.03 each = $3196.03)",
+    "- Custom Integration Hours x48 ($155.60 each = $7468.80)"
+  ],
+  "notes": "Synthetic B2B invoice dataset for internal testing.",
+  "filename": "invoice_063.pdf",
+  "file_path": "data_final/invoice_063.pdf"
+}

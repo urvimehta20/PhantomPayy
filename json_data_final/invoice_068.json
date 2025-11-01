@@ -1,0 +1,21 @@
+{
+  "invoice_number": "INV-2025-1068",
+  "order_number": "ORD-2025-2068",
+  "customer": "Arcadia Solutions LLC",
+  "email": "ap@arcadia.com",
+  "order_date": "2025-05-14",
+  "due_date": "2025-06-28",
+  "subtotal": 11599.29,
+  "tax": 1043.94,
+  "total": 12643.23,
+  "payment_completed": false,
+  "payment_method": "Wire",
+  "transaction_id": "56675a84-e2d",
+  "items": [
+    "- Custom Integration Hours x12 ($235.27 each = $2823.24)",
+    "- SaaS License (Seats) x205 ($42.81 each = $8776.05)"
+  ],
+  "notes": "Synthetic B2B invoice dataset for internal testing.",
+  "filename": "invoice_068.pdf",
+  "file_path": "data_final/invoice_068.pdf"
+}

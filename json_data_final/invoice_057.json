@@ -1,0 +1,25 @@
+{
+  "invoice_number": "INV-2025-1057",
+  "order_number": "ORD-2025-2057",
+  "customer": "Summit Solutions LLC",
+  "email": "ap@summit.com",
+  "order_date": "2024-04-27",
+  "due_date": "2024-05-12",
+  "subtotal": 29357.79,
+  "tax": 2642.2,
+  "total": 31999.99,
+  "payment_completed": false,
+  "payment_method": "Mastercard",
+  "transaction_id": "fd693b8c-7de",
+  "items": [
+    "- Enterprise Support Retainer (Monthly) x1 ($2836.52 each = $2836.52)",
+    "- Hardware Maintenance Visit x2 ($359.28 each = $718.56)",
+    "- Training Workshop (Attendees) x39 ($144.00 each = $5616.00)",
+    "- SaaS License (Seats) x188 ($45.83 each = $8616.04)",
+    "- Data Migration Package x1 ($2729.67 each = $2729.67)",
+    "- Custom Integration Hours x30 ($294.70 each = $8841.00)"
+  ],
+  "notes": "Synthetic B2B invoice dataset for internal testing.",
+  "filename": "invoice_057.pdf",
+  "file_path": "data_final/invoice_057.pdf"
+}

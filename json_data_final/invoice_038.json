@@ -1,0 +1,25 @@
+{
+  "invoice_number": "INV-2025-1038",
+  "order_number": "ORD-2025-2038",
+  "customer": "Pioneer Solutions LLC",
+  "email": "ap@pioneer.com",
+  "order_date": "2025-05-17",
+  "due_date": "2025-06-16",
+  "subtotal": 36012.72,
+  "tax": 3241.14,
+  "total": 39253.86,
+  "payment_completed": false,
+  "payment_method": "ACH",
+  "transaction_id": "8110997d-970",
+  "items": [
+    "- Custom Integration Hours x48 ($341.84 each = $16408.32)",
+    "- Data Migration Package x1 ($1604.70 each = $1604.70)",
+    "- Hardware Maintenance Visit x3 ($906.19 each = $2718.57)",
+    "- Training Workshop (Attendees) x14 ($135.83 each = $1901.62)",
+    "- Enterprise Support Retainer (Monthly) x1 ($1260.41 each = $1260.41)",
+    "- SaaS License (Seats) x199 ($60.90 each = $12119.10)"
+  ],
+  "notes": "Synthetic B2B invoice dataset for internal testing.",
+  "filename": "invoice_038.pdf",
+  "file_path": "data_final/invoice_038.pdf"
+}

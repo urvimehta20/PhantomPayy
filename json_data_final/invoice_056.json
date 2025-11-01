@@ -1,0 +1,21 @@
+{
+  "invoice_number": "INV-2025-1056",
+  "order_number": "ORD-2025-2056",
+  "customer": "Summit Solutions LLC",
+  "email": "ap@summit.com",
+  "order_date": "2025-06-26",
+  "due_date": "2025-07-26",
+  "subtotal": 3436.16,
+  "tax": 309.25,
+  "total": 3745.41,
+  "payment_completed": true,
+  "payment_method": "AmEx",
+  "transaction_id": "8a65f2b8-29a",
+  "items": [
+    "- Data Migration Package x1 ($2655.28 each = $2655.28)",
+    "- Hardware Maintenance Visit x1 ($780.88 each = $780.88)"
+  ],
+  "notes": "Synthetic B2B invoice dataset for internal testing.",
+  "filename": "invoice_056.pdf",
+  "file_path": "data_final/invoice_056.pdf"
+}

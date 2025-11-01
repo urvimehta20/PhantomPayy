@@ -1,0 +1,24 @@
+{
+  "invoice_number": "INV-2025-1060",
+  "order_number": "ORD-2025-2060",
+  "customer": "Mosaic Solutions LLC",
+  "email": "ap@mosaic.com",
+  "order_date": "2024-12-20",
+  "due_date": "2025-01-04",
+  "subtotal": 31791.96,
+  "tax": 2861.28,
+  "total": 34653.24,
+  "payment_completed": false,
+  "payment_method": "Wire",
+  "transaction_id": "e554f7cc-dbb",
+  "items": [
+    "- Training Workshop (Attendees) x57 ($173.72 each = $9902.04)",
+    "- Data Migration Package x1 ($2696.70 each = $2696.70)",
+    "- Enterprise Support Retainer (Monthly) x1 ($2719.42 each = $2719.42)",
+    "- SaaS License (Seats) x68 ($93.55 each = $6361.40)",
+    "- Custom Integration Hours x60 ($168.54 each = $10112.40)"
+  ],
+  "notes": "Synthetic B2B invoice dataset for internal testing.",
+  "filename": "invoice_060.pdf",
+  "file_path": "data_final/invoice_060.pdf"
+}

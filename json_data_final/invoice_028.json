@@ -1,0 +1,23 @@
+{
+  "invoice_number": "INV-2025-1028",
+  "order_number": "ORD-2025-2028",
+  "customer": "Keystone Solutions LLC",
+  "email": "ap@keystone.com",
+  "order_date": "2025-10-18",
+  "due_date": "2025-12-02",
+  "subtotal": 14841.52,
+  "tax": 1335.74,
+  "total": 16177.26,
+  "payment_completed": false,
+  "payment_method": "Check",
+  "transaction_id": "ac652868-d88",
+  "items": [
+    "- Data Migration Package x1 ($2605.68 each = $2605.68)",
+    "- Enterprise Support Retainer (Monthly) x1 ($2722.98 each = $2722.98)",
+    "- Custom Integration Hours x18 ($326.67 each = $5880.06)",
+    "- Training Workshop (Attendees) x38 ($95.60 each = $3632.80)"
+  ],
+  "notes": "Synthetic B2B invoice dataset for internal testing.",
+  "filename": "invoice_028.pdf",
+  "file_path": "data_final/invoice_028.pdf"
+}

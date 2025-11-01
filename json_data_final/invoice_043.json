@@ -1,0 +1,24 @@
+{
+  "invoice_number": "INV-2025-1043",
+  "order_number": "ORD-2025-2043",
+  "customer": "Nova Solutions LLC",
+  "email": "ap@nova.com",
+  "order_date": "2024-06-28",
+  "due_date": "2024-07-13",
+  "subtotal": 20384.1,
+  "tax": 1834.57,
+  "total": 22218.67,
+  "payment_completed": false,
+  "payment_method": "Mastercard",
+  "transaction_id": "da47dd3e-5ed",
+  "items": [
+    "- Custom Integration Hours x22 ($278.85 each = $6134.70)",
+    "- Hardware Maintenance Visit x3 ($541.68 each = $1625.04)",
+    "- Data Migration Package x1 ($2276.75 each = $2276.75)",
+    "- SaaS License (Seats) x111 ($62.67 each = $6956.37)",
+    "- Enterprise Support Retainer (Monthly) x1 ($3391.24 each = $3391.24)"
+  ],
+  "notes": "Synthetic B2B invoice dataset for internal testing.",
+  "filename": "invoice_043.pdf",
+  "file_path": "data_final/invoice_043.pdf"
+}

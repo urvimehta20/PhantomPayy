@@ -1,0 +1,23 @@
+{
+  "invoice_number": "INV-2025-1077",
+  "order_number": "ORD-2025-2077",
+  "customer": "Apex Solutions LLC",
+  "email": "ap@apex.com",
+  "order_date": "2025-03-13",
+  "due_date": "2025-03-28",
+  "subtotal": 20732.74,
+  "tax": 1865.95,
+  "total": 22598.69,
+  "payment_completed": false,
+  "payment_method": "AmEx",
+  "transaction_id": "de87d5a3-cef",
+  "items": [
+    "- Custom Integration Hours x14 ($261.93 each = $3667.02)",
+    "- SaaS License (Seats) x113 ($85.77 each = $9692.01)",
+    "- Training Workshop (Attendees) x56 ($85.04 each = $4762.24)",
+    "- Hardware Maintenance Visit x3 ($870.49 each = $2611.47)"
+  ],
+  "notes": "Synthetic B2B invoice dataset for internal testing.",
+  "filename": "invoice_077.pdf",
+  "file_path": "data_final/invoice_077.pdf"
+}

@@ -1,0 +1,21 @@
+{
+  "invoice_number": "INV-2025-1032",
+  "order_number": "ORD-2025-2032",
+  "customer": "Summit Solutions LLC",
+  "email": "ap@summit.com",
+  "order_date": "2025-03-31",
+  "due_date": "2025-04-15",
+  "subtotal": 17887.59,
+  "tax": 1609.88,
+  "total": 19497.47,
+  "payment_completed": false,
+  "payment_method": "Wire",
+  "transaction_id": "016a1ab1-f56",
+  "items": [
+    "- Enterprise Support Retainer (Monthly) x1 ($3432.29 each = $3432.29)",
+    "- SaaS License (Seats) x155 ($93.26 each = $14455.30)"
+  ],
+  "notes": "Synthetic B2B invoice dataset for internal testing.",
+  "filename": "invoice_032.pdf",
+  "file_path": "data_final/invoice_032.pdf"
+}

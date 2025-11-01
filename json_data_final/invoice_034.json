@@ -1,0 +1,23 @@
+{
+  "invoice_number": "INV-2025-1034",
+  "order_number": "ORD-2025-2034",
+  "customer": "Helix Solutions LLC",
+  "email": "ap@helix.com",
+  "order_date": "2024-08-31",
+  "due_date": "2024-09-30",
+  "subtotal": 19569.84,
+  "tax": 1761.29,
+  "total": 21331.13,
+  "payment_completed": false,
+  "payment_method": "Mastercard",
+  "transaction_id": "4d00387b-407",
+  "items": [
+    "- Training Workshop (Attendees) x10 ($176.17 each = $1761.70)",
+    "- Enterprise Support Retainer (Monthly) x1 ($1619.93 each = $1619.93)",
+    "- SaaS License (Seats) x288 ($49.54 each = $14267.52)",
+    "- Data Migration Package x1 ($1920.69 each = $1920.69)"
+  ],
+  "notes": "Synthetic B2B invoice dataset for internal testing.",
+  "filename": "invoice_034.pdf",
+  "file_path": "data_final/invoice_034.pdf"
+}

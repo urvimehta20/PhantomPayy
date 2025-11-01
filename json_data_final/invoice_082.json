@@ -1,0 +1,21 @@
+{
+  "invoice_number": "INV-2025-1082",
+  "order_number": "ORD-2025-2082",
+  "customer": "Paragon Solutions LLC",
+  "email": "ap@paragon.com",
+  "order_date": "2024-09-26",
+  "due_date": "2024-10-11",
+  "subtotal": 15409.0,
+  "tax": 1386.81,
+  "total": 16795.81,
+  "payment_completed": false,
+  "payment_method": "Visa",
+  "transaction_id": "67384706-167",
+  "items": [
+    "- Custom Integration Hours x56 ($225.05 each = $12602.80)",
+    "- Data Migration Package x1 ($2806.20 each = $2806.20)"
+  ],
+  "notes": "Synthetic B2B invoice dataset for internal testing.",
+  "filename": "invoice_082.pdf",
+  "file_path": "data_final/invoice_082.pdf"
+}

@@ -1,0 +1,24 @@
+{
+  "invoice_number": "INV-2025-1081",
+  "order_number": "ORD-2025-2081",
+  "customer": "Ironclad Solutions LLC",
+  "email": "ap@ironclad.com",
+  "order_date": "2025-01-19",
+  "due_date": "2025-02-03",
+  "subtotal": 24420.18,
+  "tax": 2197.82,
+  "total": 26618.0,
+  "payment_completed": true,
+  "payment_method": "ACH",
+  "transaction_id": "94524e9b-00a",
+  "items": [
+    "- Training Workshop (Attendees) x25 ($182.25 each = $4556.25)",
+    "- Custom Integration Hours x26 ($270.34 each = $7028.84)",
+    "- SaaS License (Seats) x97 ($96.89 each = $9398.33)",
+    "- Data Migration Package x1 ($1568.93 each = $1568.93)",
+    "- Enterprise Support Retainer (Monthly) x1 ($1867.83 each = $1867.83)"
+  ],
+  "notes": "Synthetic B2B invoice dataset for internal testing.",
+  "filename": "invoice_081.pdf",
+  "file_path": "data_final/invoice_081.pdf"
+}

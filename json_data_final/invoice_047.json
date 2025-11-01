@@ -1,0 +1,25 @@
+{
+  "invoice_number": "INV-2025-1047",
+  "order_number": "ORD-2025-2047",
+  "customer": "Blueprint Solutions LLC",
+  "email": "ap@blueprint.com",
+  "order_date": "2024-02-12",
+  "due_date": "2024-02-27",
+  "subtotal": 35209.9,
+  "tax": 3168.89,
+  "total": 38378.79,
+  "payment_completed": false,
+  "payment_method": "AmEx",
+  "transaction_id": "36fa6eea-a28",
+  "items": [
+    "- Training Workshop (Attendees) x13 ($166.51 each = $2164.63)",
+    "- Data Migration Package x1 ($2737.77 each = $2737.77)",
+    "- Enterprise Support Retainer (Monthly) x1 ($3174.63 each = $3174.63)",
+    "- Hardware Maintenance Visit x1 ($951.61 each = $951.61)",
+    "- Custom Integration Hours x50 ($195.49 each = $9774.50)",
+    "- SaaS License (Seats) x188 ($87.27 each = $16406.76)"
+  ],
+  "notes": "Synthetic B2B invoice dataset for internal testing.",
+  "filename": "invoice_047.pdf",
+  "file_path": "data_final/invoice_047.pdf"
+}

@@ -1,0 +1,23 @@
+{
+  "invoice_number": "INV-2025-1010",
+  "order_number": "ORD-2025-2010",
+  "customer": "Lattice Solutions LLC",
+  "email": "ap@lattice.com",
+  "order_date": "2025-06-16",
+  "due_date": "2025-07-31",
+  "subtotal": 21628.44,
+  "tax": 1946.56,
+  "total": 23575.0,
+  "payment_completed": true,
+  "payment_method": "Mastercard",
+  "transaction_id": "32ae70ee-b6f",
+  "items": [
+    "- Enterprise Support Retainer (Monthly) x1 ($2681.77 each = $2681.77)",
+    "- SaaS License (Seats) x108 ($98.60 each = $10648.80)",
+    "- Hardware Maintenance Visit x1 ($755.87 each = $755.87)",
+    "- Training Workshop (Attendees) x45 ($167.60 each = $7542.00)"
+  ],
+  "notes": "Synthetic B2B invoice dataset for internal testing.",
+  "filename": "invoice_010.pdf",
+  "file_path": "data_final/invoice_010.pdf"
+}

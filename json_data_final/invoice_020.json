@@ -1,0 +1,22 @@
+{
+  "invoice_number": "INV-2025-1020",
+  "order_number": "ORD-2025-2020",
+  "customer": "Catalyst Solutions LLC",
+  "email": "ap@catalyst.com",
+  "order_date": "2024-11-24",
+  "due_date": "2024-12-09",
+  "subtotal": 6812.8,
+  "tax": 613.15,
+  "total": 7425.95,
+  "payment_completed": false,
+  "payment_method": "AmEx",
+  "transaction_id": "16c1b560-935",
+  "items": [
+    "- Data Migration Package x1 ($3122.72 each = $3122.72)",
+    "- Hardware Maintenance Visit x1 ($982.83 each = $982.83)",
+    "- Training Workshop (Attendees) x17 ($159.25 each = $2707.25)"
+  ],
+  "notes": "Synthetic B2B invoice dataset for internal testing.",
+  "filename": "invoice_020.pdf",
+  "file_path": "data_final/invoice_020.pdf"
+}

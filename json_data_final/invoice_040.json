@@ -1,0 +1,24 @@
+{
+  "invoice_number": "INV-2025-1040",
+  "order_number": "ORD-2025-2040",
+  "customer": "Northstar Solutions LLC",
+  "email": "ap@northstar.com",
+  "order_date": "2024-08-19",
+  "due_date": "2024-09-18",
+  "subtotal": 29428.3,
+  "tax": 2648.55,
+  "total": 32076.85,
+  "payment_completed": false,
+  "payment_method": "AmEx",
+  "transaction_id": "236de677-0b3",
+  "items": [
+    "- Enterprise Support Retainer (Monthly) x1 ($2771.30 each = $2771.30)",
+    "- Data Migration Package x1 ($2161.34 each = $2161.34)",
+    "- Hardware Maintenance Visit x3 ($416.46 each = $1249.38)",
+    "- Custom Integration Hours x36 ($278.83 each = $10037.88)",
+    "- SaaS License (Seats) x270 ($48.92 each = $13208.40)"
+  ],
+  "notes": "Synthetic B2B invoice dataset for internal testing.",
+  "filename": "invoice_040.pdf",
+  "file_path": "data_final/invoice_040.pdf"
+}

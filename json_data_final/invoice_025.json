@@ -1,0 +1,23 @@
+{
+  "invoice_number": "INV-2025-1025",
+  "order_number": "ORD-2025-2025",
+  "customer": "Mosaic Solutions LLC",
+  "email": "ap@mosaic.com",
+  "order_date": "2024-08-19",
+  "due_date": "2024-09-18",
+  "subtotal": 12190.42,
+  "tax": 1097.14,
+  "total": 13287.56,
+  "payment_completed": true,
+  "payment_method": "Visa",
+  "transaction_id": "d615b467-d68",
+  "items": [
+    "- SaaS License (Seats) x149 ($48.07 each = $7162.43)",
+    "- Enterprise Support Retainer (Monthly) x1 ($1549.89 each = $1549.89)",
+    "- Hardware Maintenance Visit x1 ($813.23 each = $813.23)",
+    "- Data Migration Package x1 ($2664.87 each = $2664.87)"
+  ],
+  "notes": "Synthetic B2B invoice dataset for internal testing.",
+  "filename": "invoice_025.pdf",
+  "file_path": "data_final/invoice_025.pdf"
+}

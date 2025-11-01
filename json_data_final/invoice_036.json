@@ -1,0 +1,21 @@
+{
+  "invoice_number": "INV-2025-1036",
+  "order_number": "ORD-2025-2036",
+  "customer": "Keystone Solutions LLC",
+  "email": "ap@keystone.com",
+  "order_date": "2025-05-19",
+  "due_date": "2025-06-03",
+  "subtotal": 3991.71,
+  "tax": 359.25,
+  "total": 4350.96,
+  "payment_completed": false,
+  "payment_method": "AmEx",
+  "transaction_id": "5a4536bb-6b2",
+  "items": [
+    "- Enterprise Support Retainer (Monthly) x1 ($3328.20 each = $3328.20)",
+    "- Hardware Maintenance Visit x1 ($663.51 each = $663.51)"
+  ],
+  "notes": "Synthetic B2B invoice dataset for internal testing.",
+  "filename": "invoice_036.pdf",
+  "file_path": "data_final/invoice_036.pdf"
+}

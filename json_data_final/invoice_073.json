@@ -1,0 +1,24 @@
+{
+  "invoice_number": "INV-2025-1073",
+  "order_number": "ORD-2025-2073",
+  "customer": "Orion Solutions LLC",
+  "email": "ap@orion.com",
+  "order_date": "2025-10-01",
+  "due_date": "2025-11-15",
+  "subtotal": 18340.21,
+  "tax": 1650.62,
+  "total": 19990.83,
+  "payment_completed": true,
+  "payment_method": "Visa",
+  "transaction_id": "ac45fa9d-2b2",
+  "items": [
+    "- SaaS License (Seats) x132 ($59.10 each = $7801.20)",
+    "- Data Migration Package x1 ($2132.57 each = $2132.57)",
+    "- Enterprise Support Retainer (Monthly) x1 ($2971.70 each = $2971.70)",
+    "- Training Workshop (Attendees) x26 ($109.02 each = $2834.52)",
+    "- Custom Integration Hours x14 ($185.73 each = $2600.22)"
+  ],
+  "notes": "Synthetic B2B invoice dataset for internal testing.",
+  "filename": "invoice_073.pdf",
+  "file_path": "data_final/invoice_073.pdf"
+}

@@ -1,0 +1,24 @@
+{
+  "invoice_number": "INV-2025-1052",
+  "order_number": "ORD-2025-2052",
+  "customer": "Arcadia Solutions LLC",
+  "email": "ap@arcadia.com",
+  "order_date": "2025-02-04",
+  "due_date": "2025-03-21",
+  "subtotal": 13893.07,
+  "tax": 1250.38,
+  "total": 15143.45,
+  "payment_completed": false,
+  "payment_method": "AmEx",
+  "transaction_id": "c4985ffd-d0e",
+  "items": [
+    "- Enterprise Support Retainer (Monthly) x1 ($1238.03 each = $1238.03)",
+    "- Custom Integration Hours x28 ($219.76 each = $6153.28)",
+    "- Training Workshop (Attendees) x19 ($172.52 each = $3277.88)",
+    "- Data Migration Package x1 ($1678.98 each = $1678.98)",
+    "- Hardware Maintenance Visit x2 ($772.45 each = $1544.90)"
+  ],
+  "notes": "Synthetic B2B invoice dataset for internal testing.",
+  "filename": "invoice_052.pdf",
+  "file_path": "data_final/invoice_052.pdf"
+}

@@ -1,0 +1,24 @@
+{
+  "invoice_number": "INV-2025-1046",
+  "order_number": "ORD-2025-2046",
+  "customer": "Ironclad Solutions LLC",
+  "email": "ap@ironclad.com",
+  "order_date": "2024-08-13",
+  "due_date": "2024-09-27",
+  "subtotal": 13756.33,
+  "tax": 1238.07,
+  "total": 14994.4,
+  "payment_completed": false,
+  "payment_method": "Mastercard",
+  "transaction_id": "fd059004-ac8",
+  "items": [
+    "- Enterprise Support Retainer (Monthly) x1 ($3039.24 each = $3039.24)",
+    "- Hardware Maintenance Visit x2 ($615.54 each = $1231.08)",
+    "- Data Migration Package x1 ($3049.67 each = $3049.67)",
+    "- Custom Integration Hours x11 ($299.14 each = $3290.54)",
+    "- SaaS License (Seats) x98 ($32.10 each = $3145.80)"
+  ],
+  "notes": "Synthetic B2B invoice dataset for internal testing.",
+  "filename": "invoice_046.pdf",
+  "file_path": "data_final/invoice_046.pdf"
+}

@@ -1,0 +1,21 @@
+{
+  "invoice_number": "INV-2025-1061",
+  "order_number": "ORD-2025-2061",
+  "customer": "Orion Solutions LLC",
+  "email": "ap@orion.com",
+  "order_date": "2024-04-18",
+  "due_date": "2024-05-03",
+  "subtotal": 7947.32,
+  "tax": 715.26,
+  "total": 8662.58,
+  "payment_completed": false,
+  "payment_method": "Mastercard",
+  "transaction_id": "0d2c0dda-532",
+  "items": [
+    "- Custom Integration Hours x22 ($257.52 each = $5665.44)",
+    "- Enterprise Support Retainer (Monthly) x1 ($2281.88 each = $2281.88)"
+  ],
+  "notes": "Synthetic B2B invoice dataset for internal testing.",
+  "filename": "invoice_061.pdf",
+  "file_path": "data_final/invoice_061.pdf"
+}

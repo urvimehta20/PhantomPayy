@@ -1,0 +1,24 @@
+{
+  "invoice_number": "INV-2025-1016",
+  "order_number": "ORD-2025-2016",
+  "customer": "Nova Solutions LLC",
+  "email": "ap@nova.com",
+  "order_date": "2024-10-19",
+  "due_date": "2024-11-18",
+  "subtotal": 29844.2,
+  "tax": 2685.98,
+  "total": 32530.18,
+  "payment_completed": false,
+  "payment_method": "AmEx",
+  "transaction_id": "dbcaf270-1d6",
+  "items": [
+    "- SaaS License (Seats) x256 ($54.14 each = $13859.84)",
+    "- Training Workshop (Attendees) x42 ($91.70 each = $3851.40)",
+    "- Custom Integration Hours x48 ($162.25 each = $7788.00)",
+    "- Hardware Maintenance Visit x2 ($617.65 each = $1235.30)",
+    "- Enterprise Support Retainer (Monthly) x1 ($3109.66 each = $3109.66)"
+  ],
+  "notes": "Synthetic B2B invoice dataset for internal testing.",
+  "filename": "invoice_016.pdf",
+  "file_path": "data_final/invoice_016.pdf"
+}

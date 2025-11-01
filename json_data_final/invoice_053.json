@@ -1,0 +1,21 @@
+{
+  "invoice_number": "INV-2025-1053",
+  "order_number": "ORD-2025-2053",
+  "customer": "Vector Solutions LLC",
+  "email": "ap@vector.com",
+  "order_date": "2025-03-29",
+  "due_date": "2025-04-13",
+  "subtotal": 18127.02,
+  "tax": 1631.43,
+  "total": 19758.45,
+  "payment_completed": true,
+  "payment_method": "Check",
+  "transaction_id": "96b0602f-972",
+  "items": [
+    "- SaaS License (Seats) x165 ($87.42 each = $14424.30)",
+    "- Training Workshop (Attendees) x24 ($154.28 each = $3702.72)"
+  ],
+  "notes": "Synthetic B2B invoice dataset for internal testing.",
+  "filename": "invoice_053.pdf",
+  "file_path": "data_final/invoice_053.pdf"
+}

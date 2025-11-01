@@ -1,0 +1,22 @@
+{
+  "invoice_number": "INV-2025-1078",
+  "order_number": "ORD-2025-2078",
+  "customer": "Silverline Solutions LLC",
+  "email": "ap@silverline.com",
+  "order_date": "2025-03-27",
+  "due_date": "2025-04-11",
+  "subtotal": 10606.43,
+  "tax": 954.58,
+  "total": 11561.01,
+  "payment_completed": true,
+  "payment_method": "AmEx",
+  "transaction_id": "9e79415e-c69",
+  "items": [
+    "- Custom Integration Hours x14 ($219.26 each = $3069.64)",
+    "- Training Workshop (Attendees) x34 ($163.34 each = $5553.56)",
+    "- Data Migration Package x1 ($1983.23 each = $1983.23)"
+  ],
+  "notes": "Synthetic B2B invoice dataset for internal testing.",
+  "filename": "invoice_078.pdf",
+  "file_path": "data_final/invoice_078.pdf"
+}

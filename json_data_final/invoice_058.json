@@ -1,0 +1,22 @@
+{
+  "invoice_number": "INV-2025-1058",
+  "order_number": "ORD-2025-2058",
+  "customer": "Atlas Solutions LLC",
+  "email": "ap@atlas.com",
+  "order_date": "2025-09-06",
+  "due_date": "2025-10-06",
+  "subtotal": 31374.36,
+  "tax": 2823.69,
+  "total": 34198.05,
+  "payment_completed": false,
+  "payment_method": "Mastercard",
+  "transaction_id": "2c678b09-fe9",
+  "items": [
+    "- Custom Integration Hours x60 ($346.25 each = $20775.00)",
+    "- Data Migration Package x1 ($3051.12 each = $3051.12)",
+    "- Training Workshop (Attendees) x42 ($179.72 each = $7548.24)"
+  ],
+  "notes": "Synthetic B2B invoice dataset for internal testing.",
+  "filename": "invoice_058.pdf",
+  "file_path": "data_final/invoice_058.pdf"
+}

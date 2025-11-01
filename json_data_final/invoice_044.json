@@ -1,0 +1,24 @@
+{
+  "invoice_number": "INV-2025-1044",
+  "order_number": "ORD-2025-2044",
+  "customer": "Silverline Solutions LLC",
+  "email": "ap@silverline.com",
+  "order_date": "2024-02-24",
+  "due_date": "2024-03-25",
+  "subtotal": 22940.26,
+  "tax": 2064.62,
+  "total": 25004.88,
+  "payment_completed": false,
+  "payment_method": "Visa",
+  "transaction_id": "ff645442-a9e",
+  "items": [
+    "- Hardware Maintenance Visit x1 ($500.38 each = $500.38)",
+    "- Custom Integration Hours x26 ($272.01 each = $7072.26)",
+    "- SaaS License (Seats) x262 ($40.12 each = $10511.44)",
+    "- Data Migration Package x1 ($2471.95 each = $2471.95)",
+    "- Enterprise Support Retainer (Monthly) x1 ($2384.23 each = $2384.23)"
+  ],
+  "notes": "Synthetic B2B invoice dataset for internal testing.",
+  "filename": "invoice_044.pdf",
+  "file_path": "data_final/invoice_044.pdf"
+}

@@ -1,0 +1,22 @@
+{
+  "invoice_number": "INV-2025-1062",
+  "order_number": "ORD-2025-2062",
+  "customer": "Vector Solutions LLC",
+  "email": "ap@vector.com",
+  "order_date": "2024-08-21",
+  "due_date": "2024-09-20",
+  "subtotal": 10589.85,
+  "tax": 953.09,
+  "total": 11542.94,
+  "payment_completed": false,
+  "payment_method": "Wire",
+  "transaction_id": "444bf374-0d9",
+  "items": [
+    "- Training Workshop (Attendees) x42 ($146.23 each = $6141.66)",
+    "- Custom Integration Hours x7 ($293.81 each = $2056.67)",
+    "- Enterprise Support Retainer (Monthly) x1 ($2391.52 each = $2391.52)"
+  ],
+  "notes": "Synthetic B2B invoice dataset for internal testing.",
+  "filename": "invoice_062.pdf",
+  "file_path": "data_final/invoice_062.pdf"
+}

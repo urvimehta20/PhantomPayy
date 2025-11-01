@@ -1,0 +1,24 @@
+{
+  "invoice_number": "INV-2025-1041",
+  "order_number": "ORD-2025-2041",
+  "customer": "Apex Solutions LLC",
+  "email": "ap@apex.com",
+  "order_date": "2025-02-17",
+  "due_date": "2025-03-04",
+  "subtotal": 20124.31,
+  "tax": 1811.19,
+  "total": 21935.5,
+  "payment_completed": false,
+  "payment_method": "Visa",
+  "transaction_id": "d72a0a2a-144",
+  "items": [
+    "- SaaS License (Seats) x123 ($80.70 each = $9926.10)",
+    "- Hardware Maintenance Visit x3 ($340.63 each = $1021.89)",
+    "- Training Workshop (Attendees) x39 ($112.96 each = $4405.44)",
+    "- Enterprise Support Retainer (Monthly) x1 ($1779.91 each = $1779.91)",
+    "- Data Migration Package x1 ($2990.97 each = $2990.97)"
+  ],
+  "notes": "Synthetic B2B invoice dataset for internal testing.",
+  "filename": "invoice_041.pdf",
+  "file_path": "data_final/invoice_041.pdf"
+}

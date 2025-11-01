@@ -1,0 +1,23 @@
+{
+  "invoice_number": "INV-2025-1005",
+  "order_number": "ORD-2025-2005",
+  "customer": "Catalyst Solutions LLC",
+  "email": "ap@catalyst.com",
+  "order_date": "2024-03-02",
+  "due_date": "2024-04-16",
+  "subtotal": 13959.37,
+  "tax": 1256.34,
+  "total": 15215.71,
+  "payment_completed": false,
+  "payment_method": "Check",
+  "transaction_id": "323442dc-aa9",
+  "items": [
+    "- Training Workshop (Attendees) x24 ($192.47 each = $4619.28)",
+    "- Hardware Maintenance Visit x2 ($626.28 each = $1252.56)",
+    "- Enterprise Support Retainer (Monthly) x1 ($1458.04 each = $1458.04)",
+    "- SaaS License (Seats) x153 ($43.33 each = $6629.49)"
+  ],
+  "notes": "Synthetic B2B invoice dataset for internal testing.",
+  "filename": "invoice_005.pdf",
+  "file_path": "data_final/invoice_005.pdf"
+}

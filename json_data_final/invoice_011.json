@@ -1,0 +1,25 @@
+{
+  "invoice_number": "INV-2025-1011",
+  "order_number": "ORD-2025-2011",
+  "customer": "Paragon Solutions LLC",
+  "email": "ap@paragon.com",
+  "order_date": "2024-05-20",
+  "due_date": "2024-06-04",
+  "subtotal": 27315.79,
+  "tax": 2458.42,
+  "total": 29774.21,
+  "payment_completed": true,
+  "payment_method": "Wire",
+  "transaction_id": "0c53c4e1-733",
+  "items": [
+    "- Data Migration Package x1 ($3033.70 each = $3033.70)",
+    "- Enterprise Support Retainer (Monthly) x1 ($1454.12 each = $1454.12)",
+    "- Hardware Maintenance Visit x3 ($613.85 each = $1841.55)",
+    "- Custom Integration Hours x44 ($292.54 each = $12871.76)",
+    "- Training Workshop (Attendees) x25 ($152.30 each = $3807.50)",
+    "- SaaS License (Seats) x78 ($55.22 each = $4307.16)"
+  ],
+  "notes": "Synthetic B2B invoice dataset for internal testing.",
+  "filename": "invoice_011.pdf",
+  "file_path": "data_final/invoice_011.pdf"
+}

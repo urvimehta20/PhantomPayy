@@ -1,0 +1,22 @@
+{
+  "invoice_number": "INV-2025-1074",
+  "order_number": "ORD-2025-2074",
+  "customer": "Vanguard Solutions LLC",
+  "email": "ap@vanguard.com",
+  "order_date": "2024-10-23",
+  "due_date": "2024-11-07",
+  "subtotal": 11898.04,
+  "tax": 1070.82,
+  "total": 12968.86,
+  "payment_completed": true,
+  "payment_method": "Mastercard",
+  "transaction_id": "b1b862a6-4d4",
+  "items": [
+    "- Training Workshop (Attendees) x31 ($197.78 each = $6131.18)",
+    "- Hardware Maintenance Visit x3 ($988.25 each = $2964.75)",
+    "- Enterprise Support Retainer (Monthly) x1 ($2802.11 each = $2802.11)"
+  ],
+  "notes": "Synthetic B2B invoice dataset for internal testing.",
+  "filename": "invoice_074.pdf",
+  "file_path": "data_final/invoice_074.pdf"
+}

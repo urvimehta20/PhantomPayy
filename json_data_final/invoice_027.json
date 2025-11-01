@@ -1,0 +1,22 @@
+{
+  "invoice_number": "INV-2025-1027",
+  "order_number": "ORD-2025-2027",
+  "customer": "Helix Solutions LLC",
+  "email": "ap@helix.com",
+  "order_date": "2024-06-12",
+  "due_date": "2024-06-27",
+  "subtotal": 12949.56,
+  "tax": 1165.46,
+  "total": 14115.02,
+  "payment_completed": true,
+  "payment_method": "Wire",
+  "transaction_id": "251d30b4-c04",
+  "items": [
+    "- Training Workshop (Attendees) x18 ($89.09 each = $1603.62)",
+    "- Custom Integration Hours x26 ($322.36 each = $8381.36)",
+    "- Data Migration Package x1 ($2964.58 each = $2964.58)"
+  ],
+  "notes": "Synthetic B2B invoice dataset for internal testing.",
+  "filename": "invoice_027.pdf",
+  "file_path": "data_final/invoice_027.pdf"
+}

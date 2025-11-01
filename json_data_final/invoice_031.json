@@ -1,0 +1,21 @@
+{
+  "invoice_number": "INV-2025-1031",
+  "order_number": "ORD-2025-2031",
+  "customer": "Orion Solutions LLC",
+  "email": "ap@orion.com",
+  "order_date": "2024-02-19",
+  "due_date": "2024-04-04",
+  "subtotal": 4480.63,
+  "tax": 403.26,
+  "total": 4883.89,
+  "payment_completed": true,
+  "payment_method": "Wire",
+  "transaction_id": "13320e53-5d3",
+  "items": [
+    "- Training Workshop (Attendees) x23 ($172.08 each = $3957.84)",
+    "- Hardware Maintenance Visit x1 ($522.79 each = $522.79)"
+  ],
+  "notes": "Synthetic B2B invoice dataset for internal testing.",
+  "filename": "invoice_031.pdf",
+  "file_path": "data_final/invoice_031.pdf"
+}

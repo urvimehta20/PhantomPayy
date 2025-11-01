@@ -1,0 +1,21 @@
+{
+  "invoice_number": "INV-2025-1067",
+  "order_number": "ORD-2025-2067",
+  "customer": "Orbital Solutions LLC",
+  "email": "ap@orbital.com",
+  "order_date": "2025-01-04",
+  "due_date": "2025-02-18",
+  "subtotal": 16082.53,
+  "tax": 1447.43,
+  "total": 17529.96,
+  "payment_completed": false,
+  "payment_method": "AmEx",
+  "transaction_id": "9b7a02fb-83b",
+  "items": [
+    "- Custom Integration Hours x45 ($319.05 each = $14357.25)",
+    "- Enterprise Support Retainer (Monthly) x1 ($1725.28 each = $1725.28)"
+  ],
+  "notes": "Synthetic B2B invoice dataset for internal testing.",
+  "filename": "invoice_067.pdf",
+  "file_path": "data_final/invoice_067.pdf"
+}

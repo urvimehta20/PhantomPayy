@@ -1,0 +1,23 @@
+{
+  "invoice_number": "INV-2025-1088",
+  "order_number": "ORD-2025-2088",
+  "customer": "Catalyst Solutions LLC",
+  "email": "ap@catalyst.com",
+  "order_date": "2025-09-09",
+  "due_date": "2025-10-09",
+  "subtotal": 28762.55,
+  "tax": 2588.63,
+  "total": 31351.18,
+  "payment_completed": true,
+  "payment_method": "Check",
+  "transaction_id": "3073fb3e-232",
+  "items": [
+    "- Custom Integration Hours x14 ($208.17 each = $2914.38)",
+    "- Hardware Maintenance Visit x1 ($689.23 each = $689.23)",
+    "- Data Migration Package x1 ($3151.29 each = $3151.29)",
+    "- SaaS License (Seats) x277 ($79.45 each = $22007.65)"
+  ],
+  "notes": "Synthetic B2B invoice dataset for internal testing.",
+  "filename": "invoice_088.pdf",
+  "file_path": "data_final/invoice_088.pdf"
+}

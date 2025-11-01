@@ -1,0 +1,21 @@
+{
+  "invoice_number": "INV-2025-1033",
+  "order_number": "ORD-2025-2033",
+  "customer": "Lattice Solutions LLC",
+  "email": "ap@lattice.com",
+  "order_date": "2024-05-11",
+  "due_date": "2024-06-25",
+  "subtotal": 16186.02,
+  "tax": 1456.74,
+  "total": 17642.76,
+  "payment_completed": false,
+  "payment_method": "Visa",
+  "transaction_id": "f4a906d7-df8",
+  "items": [
+    "- Custom Integration Hours x50 ($302.13 each = $15106.50)",
+    "- Hardware Maintenance Visit x2 ($539.76 each = $1079.52)"
+  ],
+  "notes": "Synthetic B2B invoice dataset for internal testing.",
+  "filename": "invoice_033.pdf",
+  "file_path": "data_final/invoice_033.pdf"
+}

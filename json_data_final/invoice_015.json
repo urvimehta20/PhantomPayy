@@ -1,0 +1,22 @@
+{
+  "invoice_number": "INV-2025-1015",
+  "order_number": "ORD-2025-2015",
+  "customer": "Paragon Solutions LLC",
+  "email": "ap@paragon.com",
+  "order_date": "2024-10-03",
+  "due_date": "2024-11-02",
+  "subtotal": 9978.45,
+  "tax": 898.06,
+  "total": 10876.51,
+  "payment_completed": false,
+  "payment_method": "Mastercard",
+  "transaction_id": "1f589b4d-703",
+  "items": [
+    "- SaaS License (Seats) x128 ($47.29 each = $6053.12)",
+    "- Data Migration Package x1 ($2156.86 each = $2156.86)",
+    "- Custom Integration Hours x11 ($160.77 each = $1768.47)"
+  ],
+  "notes": "Synthetic B2B invoice dataset for internal testing.",
+  "filename": "invoice_015.pdf",
+  "file_path": "data_final/invoice_015.pdf"
+}

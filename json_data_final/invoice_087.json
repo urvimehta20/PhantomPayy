@@ -1,0 +1,21 @@
+{
+  "invoice_number": "INV-2025-1087",
+  "order_number": "ORD-2025-2087",
+  "customer": "Apex Solutions LLC",
+  "email": "ap@apex.com",
+  "order_date": "2025-02-28",
+  "due_date": "2025-04-14",
+  "subtotal": 1984.18,
+  "tax": 178.58,
+  "total": 2162.76,
+  "payment_completed": false,
+  "payment_method": "Visa",
+  "transaction_id": "f9d96e24-6e1",
+  "items": [
+    "- Enterprise Support Retainer (Monthly) x1 ($1531.21 each = $1531.21)",
+    "- Hardware Maintenance Visit x1 ($452.97 each = $452.97)"
+  ],
+  "notes": "Synthetic B2B invoice dataset for internal testing.",
+  "filename": "invoice_087.pdf",
+  "file_path": "data_final/invoice_087.pdf"
+}

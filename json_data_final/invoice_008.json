@@ -1,0 +1,25 @@
+{
+  "invoice_number": "INV-2025-1008",
+  "order_number": "ORD-2025-2008",
+  "customer": "Atlas Solutions LLC",
+  "email": "ap@atlas.com",
+  "order_date": "2025-06-09",
+  "due_date": "2025-07-24",
+  "subtotal": 32505.02,
+  "tax": 2925.45,
+  "total": 35430.47,
+  "payment_completed": false,
+  "payment_method": "Wire",
+  "transaction_id": "65c40c6d-d21",
+  "items": [
+    "- Hardware Maintenance Visit x1 ($917.48 each = $917.48)",
+    "- Training Workshop (Attendees) x27 ($134.59 each = $3633.93)",
+    "- Data Migration Package x1 ($2752.44 each = $2752.44)",
+    "- Custom Integration Hours x26 ($159.92 each = $4157.92)",
+    "- SaaS License (Seats) x234 ($80.49 each = $18834.66)",
+    "- Enterprise Support Retainer (Monthly) x1 ($2208.59 each = $2208.59)"
+  ],
+  "notes": "Synthetic B2B invoice dataset for internal testing.",
+  "filename": "invoice_008.pdf",
+  "file_path": "data_final/invoice_008.pdf"
+}

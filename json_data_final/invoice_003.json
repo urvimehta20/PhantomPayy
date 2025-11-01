@@ -1,0 +1,24 @@
+{
+  "invoice_number": "INV-2025-1003",
+  "order_number": "ORD-2025-2003",
+  "customer": "Helix Solutions LLC",
+  "email": "ap@helix.com",
+  "order_date": "2025-07-31",
+  "due_date": "2025-08-15",
+  "subtotal": 30411.5,
+  "tax": 2737.03,
+  "total": 33148.53,
+  "payment_completed": true,
+  "payment_method": "ACH",
+  "transaction_id": "a394b907-6fd",
+  "items": [
+    "- Training Workshop (Attendees) x40 ($181.26 each = $7250.40)",
+    "- Hardware Maintenance Visit x1 ($517.91 each = $517.91)",
+    "- Custom Integration Hours x48 ($288.22 each = $13834.56)",
+    "- Enterprise Support Retainer (Monthly) x1 ($3207.98 each = $3207.98)",
+    "- SaaS License (Seats) x187 ($29.95 each = $5600.65)"
+  ],
+  "notes": "Synthetic B2B invoice dataset for internal testing.",
+  "filename": "invoice_003.pdf",
+  "file_path": "data_final/invoice_003.pdf"
+}

@@ -1,0 +1,22 @@
+{
+  "invoice_number": "INV-2025-1004",
+  "order_number": "ORD-2025-2004",
+  "customer": "Nova Solutions LLC",
+  "email": "ap@nova.com",
+  "order_date": "2024-05-01",
+  "due_date": "2024-06-15",
+  "subtotal": 17993.87,
+  "tax": 1619.45,
+  "total": 19613.32,
+  "payment_completed": false,
+  "payment_method": "Wire",
+  "transaction_id": "5d1ed4df-e54",
+  "items": [
+    "- SaaS License (Seats) x81 ($98.13 each = $7948.53)",
+    "- Data Migration Package x1 ($1546.20 each = $1546.20)",
+    "- Custom Integration Hours x26 ($326.89 each = $8499.14)"
+  ],
+  "notes": "Synthetic B2B invoice dataset for internal testing.",
+  "filename": "invoice_004.pdf",
+  "file_path": "data_final/invoice_004.pdf"
+}

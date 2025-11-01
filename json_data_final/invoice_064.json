@@ -1,0 +1,23 @@
+{
+  "invoice_number": "INV-2025-1064",
+  "order_number": "ORD-2025-2064",
+  "customer": "Northstar Solutions LLC",
+  "email": "ap@northstar.com",
+  "order_date": "2024-04-12",
+  "due_date": "2024-05-27",
+  "subtotal": 23618.91,
+  "tax": 2125.7,
+  "total": 25744.61,
+  "payment_completed": false,
+  "payment_method": "ACH",
+  "transaction_id": "10d9a9c0-c9f",
+  "items": [
+    "- Custom Integration Hours x27 ($296.19 each = $7997.13)",
+    "- Training Workshop (Attendees) x39 ($194.50 each = $7585.50)",
+    "- Data Migration Package x1 ($2388.88 each = $2388.88)",
+    "- SaaS License (Seats) x68 ($83.05 each = $5647.40)"
+  ],
+  "notes": "Synthetic B2B invoice dataset for internal testing.",
+  "filename": "invoice_064.pdf",
+  "file_path": "data_final/invoice_064.pdf"
+}

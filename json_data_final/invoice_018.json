@@ -1,0 +1,25 @@
+{
+  "invoice_number": "INV-2025-1018",
+  "order_number": "ORD-2025-2018",
+  "customer": "Orbital Solutions LLC",
+  "email": "ap@orbital.com",
+  "order_date": "2025-07-29",
+  "due_date": "2025-09-12",
+  "subtotal": 20585.71,
+  "tax": 1852.71,
+  "total": 22438.42,
+  "payment_completed": false,
+  "payment_method": "Wire",
+  "transaction_id": "373c1796-073",
+  "items": [
+    "- Data Migration Package x1 ($2887.65 each = $2887.65)",
+    "- Enterprise Support Retainer (Monthly) x1 ($2593.89 each = $2593.89)",
+    "- SaaS License (Seats) x166 ($62.49 each = $10373.34)",
+    "- Training Workshop (Attendees) x19 ($102.07 each = $1939.33)",
+    "- Hardware Maintenance Visit x2 ($410.99 each = $821.98)",
+    "- Custom Integration Hours x8 ($246.19 each = $1969.52)"
+  ],
+  "notes": "Synthetic B2B invoice dataset for internal testing.",
+  "filename": "invoice_018.pdf",
+  "file_path": "data_final/invoice_018.pdf"
+}

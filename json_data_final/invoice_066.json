@@ -1,0 +1,23 @@
+{
+  "invoice_number": "INV-2025-1066",
+  "order_number": "ORD-2025-2066",
+  "customer": "Summit Solutions LLC",
+  "email": "ap@summit.com",
+  "order_date": "2024-11-16",
+  "due_date": "2024-12-31",
+  "subtotal": 12189.29,
+  "tax": 1097.04,
+  "total": 13286.33,
+  "payment_completed": true,
+  "payment_method": "Wire",
+  "transaction_id": "9c4b66c1-8e4",
+  "items": [
+    "- Hardware Maintenance Visit x1 ($528.69 each = $528.69)",
+    "- SaaS License (Seats) x20 ($47.16 each = $943.20)",
+    "- Custom Integration Hours x38 ($210.46 each = $7997.48)",
+    "- Training Workshop (Attendees) x14 ($194.28 each = $2719.92)"
+  ],
+  "notes": "Synthetic B2B invoice dataset for internal testing.",
+  "filename": "invoice_066.pdf",
+  "file_path": "data_final/invoice_066.pdf"
+}

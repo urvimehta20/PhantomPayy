@@ -1,0 +1,21 @@
+{
+  "invoice_number": "INV-2025-1035",
+  "order_number": "ORD-2025-2035",
+  "customer": "Ironclad Solutions LLC",
+  "email": "ap@ironclad.com",
+  "order_date": "2024-10-10",
+  "due_date": "2024-11-09",
+  "subtotal": 17465.0,
+  "tax": 1571.85,
+  "total": 19036.85,
+  "payment_completed": false,
+  "payment_method": "Mastercard",
+  "transaction_id": "5916d283-e7c",
+  "items": [
+    "- Data Migration Package x1 ($1974.92 each = $1974.92)",
+    "- SaaS License (Seats) x279 ($55.52 each = $15490.08)"
+  ],
+  "notes": "Synthetic B2B invoice dataset for internal testing.",
+  "filename": "invoice_035.pdf",
+  "file_path": "data_final/invoice_035.pdf"
+}
